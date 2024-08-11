@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">pocfacebookads</string>
+    <string name="facebook_app_id">1071539357665349</string>
+    <string name="fb_auto_applink_scheme">fb1071539357665349</string>
+    <string name="facebook_client_token">EAAPOjzLGyEUBO6cZCxyCaWsqPhchrraMih8ecJ8SshwtLCAfzNbZAlJTJjQWYgVqWF2adDO4bDDz6JJehygTcWtCWrCn6ZCBxVI1LvSwdrcCc62ipe655MZA8ANuNShPCqFmhdPjQeHgXeZBFubQCcLjlt6Y5K2pySZA8LynhiZAA6vDZCDdOQf0SRMZChXuMx7lXxQWxkGdSzS8pXRMAnk2lEYA9FjohZBZBeR56ZCzxEJNBZBGbmhDX4a3XBGSBEBm1RAZDZD</string>
+    <string name="fb_login_protocol_scheme">1071539357665349</string>
 </resources>
